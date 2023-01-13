@@ -1,0 +1,13 @@
+com\wymee\backparser\parser_backend_api\Main.class
+com\wymee\backparser\parser_backend_api\controllers\TestController.class
+com\wymee\backparser\parser_backend_api\controllers\MatchingController$1.class
+com\wymee\backparser\parser_backend_api\controllers\ScrappingController.class
+com\wymee\backparser\parser_backend_api\controllers\MatchingController$2.class
+com\wymee\backparser\parser_backend_api\controllers\MatchingController.class
+com\wymee\backparser\parser_backend_api\classes\Utilitaires$1.class
+com\wymee\backparser\parser_backend_api\model\Job.class
+com\wymee\backparser\parser_backend_api\ClientAppConfiguration.class
+com\wymee\backparser\parser_backend_api\data\JobsDAO.class
+com\wymee\backparser\parser_backend_api\controllers\JobController.class
+com\wymee\backparser\parser_backend_api\repository\JobRepository.class
+com\wymee\backparser\parser_backend_api\classes\Utilitaires.class
