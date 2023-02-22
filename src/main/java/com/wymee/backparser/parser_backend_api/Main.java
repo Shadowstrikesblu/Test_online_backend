@@ -11,10 +11,14 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 @SpringBootApplication
 public class Main {
 
+
     public static void main(String[] args) {
+        System.out.println("Hello World");
         SpringApplication.run(Main.class, args);
     }
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
