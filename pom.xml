@@ -15,9 +15,9 @@
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
     <properties>
-        <java.version>19</java.version>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
+        <java.version>17</java.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
@@ -130,6 +130,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
+
 <!--            <plugin>-->
 <!--                <artifactId>maven-war-plugin</artifactId>-->
 <!--                <version>3.3.2</version>-->
